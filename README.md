@@ -1,14 +1,14 @@
-# Random City Explorer
+# Random City Explorer 🏙️
 
 ## Overview
-**Random City Explorer** is a Python-based application that selects a random city from a predefined list and provides information such as weather details and fun facts about the city. It retrieves weather data using the OpenWeatherMap API and city facts using the Wikipedia API.
+**Random City Explorer ** is a Python-based application that selects a random city from a predefined list and provides information such as weather details and fun facts about the city. It retrieves weather data using the OpenWeatherMap API and city facts using the Wikipedia API.
 
-This is another fun project by me. It's kinda useless lmao...
+This is another fun project by me. It's kinda useless lmao... 😆
 
 ## Features
-- **Random City Selection**: Explore a different city every time you run the program.
-- **City Facts**: Provides interesting facts about the city from its Wikipedia page.
-- **Weather Information**: Fetches real-time(yep, I'm serious) weather data for the selected city using OpenWeatherMap API.
+- **Random City Selection ** : Explore a different city every time you run the program.
+- **City Facts 📄**: Provides interesting facts about the city from its Wikipedia page.
+- **Weather Information ☀️**: Fetches real-time(yep, I'm serious) weather data for the selected city using OpenWeatherMap API.
 
 ## How It Works
 1. The program selects a random city from a list of pre-defined cities.
@@ -16,10 +16,10 @@ This is another fun project by me. It's kinda useless lmao...
 3. The program retrieves real-time weather data for the selected city using the OpenWeatherMap API.
 4. The user can explore multiple cities in a single session or quit at any time.
 
-- You can also try it!!
+- You can also try it!! 
 
   
-## Installation
+## Installation 💻
 
 1. **Clone the Repository**:
    ```bash
@@ -46,7 +46,7 @@ The project requires the following libraries:
 - `random`: To randomize the cities(obv).
 **These will be downloaded once you run the command of 2nd step in the Installation process.**
   
-## Usage
+## Usage 
 1. Run the `index.py` script.
 2. The program will select a random city from the list and display basic information and weather data.
 3. After viewing the information, you'll have the option to explore another city or quit the program.
@@ -55,15 +55,20 @@ The project requires the following libraries:
 **OpenWeatherMap**: Provides real-time weather data for any city in the world.
 **Wikipedia API**: Fetches a brief summary of the selected city from its Wikipedia page.
 
-## To Do(Updates)
-- Add more cities to the list(doing this currently).
+## To Do(Updates) 📄🖋️
+- Add more cities to the list.
 - Display additional information about the cities (e.g., population, time zone).
 - Allow user input for cities.
 - Save the explored cities' information to a text or CSV file.
 
+## Current Status 📊
+- Currently working on other projects, but once i have time, I'll probably add user input as well as more pre-defined ones.
+- Stay tuned, bcuz the next update will be 🔥
 
-## Thank You
-- Well, thank you for using my code.
+## Thank You 😄
+- Well, thank you for reading.
+- Hope you will use it as well.
 - As always, if you have any issues with the program, you can contact me on discord(metagross2010ss) or email me.
-- Have a nice day :D !!!!
+- If you have liked, please star the repo!! ⭐
+- Have a nice day :D !!!! 👋
 
