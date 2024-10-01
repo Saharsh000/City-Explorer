@@ -33,11 +33,11 @@ This is another fun project by me. It's kinda useless lmao...
    ```
 3. **Get Your OpenWeatherMap API Key**:
   - Sign up for a free account at OpenWeatherMap.
-  - Get your API key and replace `your_openweathermap_api_key` in the `city_explorer.py` file.
+  - Get your API key and replace `your_openweathermap_api_key` in the `index.py` file.
 
 4. **Run the Program**: Start the program by running:
 ```bash
-python city_explorer.py
+python index.py
 ```
 ## Dependencies
 
@@ -50,7 +50,7 @@ You can install these dependencies with:
 pip install -r requirements.txt
 ```
 ## Usage
-1. Run the `city_explorer.py` script.
+1. Run the `index.py` script.
 2. The program will select a random city from the list and display basic information and weather data.
 3. After viewing the information, you'll have the option to explore another city or quit the program.
 
