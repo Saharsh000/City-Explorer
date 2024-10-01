@@ -29,7 +29,7 @@ This is another fun project by me. It's kinda useless lmao...
 2. **Install Dependencies**:
    Ensure you have Python installed. Install the required dependencies by running:
    ```bash
-   pip install -r requirements.txt
+   pip install -r req.txt
    ```
 3. **Get Your OpenWeatherMap API Key**:
   - Sign up for a free account at OpenWeatherMap.
@@ -44,13 +44,8 @@ python index.py
 The project requires the following libraries:
 - `requests`: To make API calls to Wikipedia and OpenWeatherMap.
 - `random`: To randomize the cities(obv).
+**These will be downloaded once you run the command of 2nd step in the Installation process.**
   
-
-You can install these dependencies with:
-
-```bash
-pip install -r requirements.txt
-```
 ## Usage
 1. Run the `index.py` script.
 2. The program will select a random city from the list and display basic information and weather data.
