@@ -43,6 +43,8 @@ python index.py
 
 The project requires the following libraries:
 - `requests`: To make API calls to Wikipedia and OpenWeatherMap.
+- `random`: To randomize the cities(obv).
+  
 
 You can install these dependencies with:
 
