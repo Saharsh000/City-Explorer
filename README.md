@@ -69,6 +69,6 @@ The project requires the following libraries:
 - Well, thank you for reading.
 - Hope you will use it as well.
 - As always, if you have any issues with the program, you can contact me on discord(metagross2010ss) or email me.
-- If you have liked, please star the repo!! ⭐
+- If you have liked this, please star the repo!! ⭐
 - Have a nice day :D !!!! 👋
 
